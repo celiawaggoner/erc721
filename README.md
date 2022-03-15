@@ -1,1 +1,1 @@
-# erc721
+# NFT Minter
